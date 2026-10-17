@@ -13,6 +13,15 @@
         "ref": "master"
       },
       "description": "Filter and rank web sources with a heuristic score, then let a cheap judge vet SUPPORT sources before the main agent reads them"
+    },
+    {
+      "name": "learn-to-tell",
+      "source": {
+        "source": "github",
+        "repo": "Doggy-Footprint/learn-to-tell",
+        "ref": "master"
+      },
+      "description": "질문이나 작업 중 모르는 것 → 결정 변수 진단 → 시각 자료·시뮬레이션 학습 → 서술 퀴즈 (작업 복귀)"
     }
   ]
 }
