@@ -22,6 +22,15 @@
         "ref": "master"
       },
       "description": "질문이나 작업 중 모르는 것 → 결정 변수 진단 → 시각 자료·시뮬레이션 학습 → 서술 퀴즈 (작업 복귀)"
+    },
+    {
+      "name": "llm-wiki",
+      "source": {
+        "source": "github",
+        "repo": "Doggy-Footprint/llm-wiki-plugin",
+        "ref": "main"
+      },
+      "description": "키워드·파일·URL로 대화하며 공부하고 이해 수준(SOLO 0~4)·오개념을 Obsidian 위키에 기록 (/llm-wiki:add)"
     }
   ]
 }
