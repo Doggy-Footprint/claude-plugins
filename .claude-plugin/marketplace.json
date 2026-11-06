@@ -1,6 +1,6 @@
 {
   "name": "doggy-footprint",
-  "description": "Claude Code plugins by Doggy-Footprint",
+  "description": "Claude plugins by Doggy-Footprint (Claude Code, claude.ai)",
   "owner": {
     "name": "Doggy-Footprint"
   },
@@ -10,7 +10,8 @@
       "source": {
         "source": "github",
         "repo": "Doggy-Footprint/scored-web-search",
-        "ref": "master"
+        "ref": "master",
+        "sha": "8d121dcd9b5f6ea2122fe7f4ce4c35700b72f7b3"
       },
       "description": "Filter and rank web sources with a heuristic score, then let a cheap judge vet SUPPORT sources before the main agent reads them"
     },
@@ -19,7 +20,8 @@
       "source": {
         "source": "github",
         "repo": "Doggy-Footprint/learn-to-tell",
-        "ref": "master"
+        "ref": "master",
+        "sha": "4712ee10303f0e087f96d8ad575b7df0d0ebbfd9"
       },
       "description": "질문이나 작업 중 모르는 것 → 결정 변수 진단 → 시각 자료·시뮬레이션 학습 → 서술 퀴즈 (작업 복귀)"
     },
@@ -28,9 +30,10 @@
       "source": {
         "source": "github",
         "repo": "Doggy-Footprint/llm-wiki-plugin",
-        "ref": "main"
+        "ref": "main",
+        "sha": "8ee0af36296a9eea09642291095d524986b553e7"
       },
-      "description": "키워드·파일·URL로 대화하며 공부하고 이해 수준(SOLO 0~4)·오개념을 Obsidian 위키에 기록 (/llm-wiki:add)"
+      "description": "대화로 공부하고 이해 수준(SOLO 0~4)·오개념을 위키에 기록하는 wiki-add, 뉴스레터로 공부하는 wiki-learn, FSRS 복습 퀴즈 wiki-quiz, 목표 지도 wiki-goal, 깨달음 기록 wiki-insight"
     }
   ]
 }
