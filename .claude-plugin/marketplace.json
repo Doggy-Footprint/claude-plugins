@@ -31,7 +31,7 @@
         "source": "github",
         "repo": "Doggy-Footprint/llm-wiki-plugin",
         "ref": "main",
-        "sha": "df27233735f148fccf000d1a0578d03d3026c298"
+        "sha": "6d20d07f6e17fd04971b347c0a7b2cfc2fcd5b8b"
       },
       "description": "대화로 공부하고 이해 수준(SOLO 0~4)·오개념을 위키에 기록하는 wiki-add, 뉴스레터로 공부하는 wiki-learn, FSRS 복습 퀴즈 wiki-quiz, 목표 지도 wiki-goal, 깨달음 기록 wiki-insight"
     }
